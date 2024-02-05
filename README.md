@@ -50,6 +50,6 @@ chmod +x tstyle.sh
 - Oh-My-Zsh
 - PowerLevel10k
 - LSD (LSDeluxe)
-- Termux-style ![Download](https://f-droid.org/en/packages/com.termux.styling/) (recommended, not installed by the script)
+- Termux-style [Download](https://f-droid.org/en/packages/com.termux.styling/) (recommended, not installed by the script)
 
 ## Enjoy!
