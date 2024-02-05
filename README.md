@@ -45,11 +45,11 @@ chmod +x tstyle.sh
 ```
 
 # Dependencies
-Zsh
-Git
-Oh-My-Zsh
-PowerLevel10k
-LSD (LSDeluxe)
-Termux-style ![Download](https://f-droid.org/en/packages/com.termux.styling/) (recommended, not installed by the script)
+- Zsh
+- Git
+- Oh-My-Zsh
+- PowerLevel10k
+- LSD (LSDeluxe)
+- Termux-style ![Download](https://f-droid.org/en/packages/com.termux.styling/) (recommended, not installed by the script)
 
-Enjoy!
+## Enjoy!
